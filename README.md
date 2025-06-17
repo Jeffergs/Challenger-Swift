@@ -11,9 +11,9 @@
 
   2. ***Checkout confuso*** <br>
       1. Na etapa 1, mesmo escolhendo "retirada na loja", o sistema pergunta a data de entrega, gerando confusão. <br>
-![Confusão entrega-retirada](https://github.com/user-attachments/assets/8fd9e645-6df6-4a7b-9d0f-de7a7ed172b7) <br>
+![Confusão entrega-retirada](https://github.com/user-attachments/assets/8fd9e645-6df6-4a7b-9d0f-de7a7ed172b7) <br> <br>
       2. A etapa 3 é redundante, perguntando novamente sobre entrega ou retirada, algo já decidido anteriormente.
-![Entrega-retirada-repeticao](https://github.com/user-attachments/assets/812b8861-7f85-40c3-a4e1-145f1c80118b) <br>
+![Entrega-retirada-repeticao](https://github.com/user-attachments/assets/812b8861-7f85-40c3-a4e1-145f1c80118b) <br> <br>
       3. Na etapa 4, ao optar por "retirada na loja", ocorre erro no pagamento. Já na opção "entrega", não há erro — o que transmite má impressão ao usuário. <br>
 ![Erro-pagamento1](https://github.com/user-attachments/assets/df605544-686f-41a3-93c2-0b6406a47d94)
 ![Erro-pagamento2](https://github.com/user-attachments/assets/07f12ba7-23d5-4bc2-b9af-60d97fa3bca9) 
