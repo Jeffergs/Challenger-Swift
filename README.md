@@ -60,7 +60,7 @@ Melhorar a jornada de compra O2O (Online to Offline) do e-commerce da Swift, red
   - Destaque para **bebidas**, **refeições prontas** e **pratos rápidos**
 
 - 🔹 **Gatilhos Emocionais**
-  - Ofertas com senso de **urgência e escassez**
+  - Ofertas com senso de **urgência e escassez** no carrinho
 
 ---
 
