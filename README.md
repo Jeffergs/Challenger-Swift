@@ -81,3 +81,24 @@ Melhorar a jornada de compra O2O (Online to Offline) do e-commerce da Swift, red
 | 🧭 Navegação mais intuitiva | Melhor usabilidade |
 | ✅ Mais confiança e conforto | Layout profissional e coerente |
 | 🔁 Aumento da retenção | Usuários mais propensos a voltar |
+
+---
+
+## 🎨 Prototipagem das telas
+![Login](https://github.com/user-attachments/assets/298d7fcd-18cf-47d2-99ab-624c300a5bd2)
+![Cadastro PF](https://github.com/user-attachments/assets/d5459486-6963-43c3-9782-564494bb3ca2)
+![Cadastro PJ](https://github.com/user-attachments/assets/e89f11de-39fb-41f5-9a84-00dafb4bc057)
+![Home](https://github.com/user-attachments/assets/8a28dc96-bc19-4ddb-8b4d-65ffee185a15)
+![Carrinho](https://github.com/user-attachments/assets/098926b7-9ed1-4948-a621-7e557c27cd91)
+![Checkout](https://github.com/user-attachments/assets/e9b25097-9c53-47fc-9975-0625139802d9)
+
+
+
+
+
+
+
+
+
+
+
