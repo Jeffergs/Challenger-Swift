@@ -1,5 +1,22 @@
 # 🚀 Challenger Swift ![Status](https://img.shields.io/badge/Status-Em%20Andamento-blue)
 
+## 📑 Índice
+
+- [📌 Descrição do Desafio](#-descrição-do-desafio)
+- [🩺 Diagnóstico: Principais Pontos de Atrito na Jornada O2O](#-diagnóstico-principais-pontos-de-atrito-na-jornada-o2o)
+  - [🛒 Checkout](#-checkout)
+  - [🛍️ Falta de Cross-sell no Checkout](#-falta-de-cross-sell-no-checkout)
+  - [🖥️ Layout Poluído em Partes do Site](#-layout-poluído-em-partes-do-site)
+  - [🌙 Ausência de Modo Escuro](#-ausência-de-modo-escuro)
+- [✅ Soluções Propostas](#-soluções-propostas)
+  - [🎯 Aumento da Conversão](#-aumento-da-conversão)
+  - [💸 Aumento do Ticket Médio](#-aumento-do-ticket-médio)
+  - [🚀 Viabilidade e Inovação](#-viabilidade-e-inovação)
+- [📈 Impacto Esperado](#-impacto-esperado)
+- [🎨 Prototipagem das telas](#-prototipagem-das-telas)
+- [🗂️ Modelagem de dados](#️modelagem-de-dados)
+
+---
 
 ## 📌 Descrição do Desafio
 
