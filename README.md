@@ -15,6 +15,7 @@
 - [📈 Impacto Esperado](#-impacto-esperado)
 - [🎨 Prototipagem das telas](#-prototipagem-das-telas)
 - [🗂️ Modelagem de dados](#️modelagem-de-dados)
+- [👨‍💻 Pessoas Desenvolvedoras do Projeto](#-pessoas-desenvolvedoras-do-projeto)
 
 ---
 
@@ -116,6 +117,28 @@ Melhorar a jornada de compra O2O (Online to Offline) do e-commerce da Swift, red
   <img src="https://github.com/user-attachments/assets/7f0efc68-cbb7-4395-90f5-ecbf58e09be4" alt"Swift-Logical">
   <img src="https://github.com/user-attachments/assets/35210511-c16c-4b6f-990a-8622e583e521" alt"Swift-Relational">  
 </div>
+
+---
+## 👨‍💻 Pessoas Desenvolvedoras do Projeto
+
+### 🐱‍💻 Com GitHub
+
+<div>
+
+| [<img src="https://github.com/user-attachments/assets/854d6190-615a-4d46-a288-ee246228164b" width="100" height="100" alt="Jefferson Gomes"/>](https://github.com/Jeffergs) | [<img src="https://github.com/user-attachments/assets/5c7d887a-4067-458a-8501-2901ed503514" width="100" height="100" alt="Luiz Eduardo"/>](https://github.com/luizeduardotsdev) |
+|:---:|:---:|
+| [![Jefferson Gomes](https://img.shields.io/badge/Jefferson_Gomes-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeffergs) | [![Luiz Eduardo](https://img.shields.io/badge/Luiz_Eduardo-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luizeduardotsdev) |
+
+</div>
+
+
+### 🙋‍♂️ Sem GitHub
+
+- Jean Carlos Martins
+- Bruno Felipe Cavaeiro
+- Adriano Isaias
+
+
 
 
 
