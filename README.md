@@ -140,7 +140,7 @@ Melhorar a jornada de compra O2O (Online to Offline) do e-commerce da Swift, red
 
 ---
 ## 🧑‍🏭 Minhas contribuições
-Fiz a modelagem de dados, participei ativamente do planejamento das telas e contribuí na identificação dos principais pontos de atrito da jornada O2O, além de colaborar no desenvolvimento das soluções propostas.
+Fiz a modelagem de dados, participei ativamente do planejamento das telas e contribuí na identificação dos principais pontos de atrito da jornada O2O, além de criar a documentação de soluções propostas.
 
 
 
