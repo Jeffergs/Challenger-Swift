@@ -16,6 +16,7 @@
 - [🎨 Prototipagem das telas](#-prototipagem-das-telas)
 - [🗂️ Modelagem de dados](#️modelagem-de-dados)
 - [👨‍💻 Pessoas Desenvolvedoras do Projeto](#-pessoas-desenvolvedoras-do-projeto)
+- [🧑‍🏭 Minhas contribuições](#-minhas-contribuições)
 
 ---
 
@@ -131,13 +132,15 @@ Melhorar a jornada de compra O2O (Online to Offline) do e-commerce da Swift, red
 
 </div>
 
-
 ### 🙋‍♂️ Sem GitHub
 
 - Jean Carlos Martins
 - Bruno Felipe Cavaeiro
 - Adriano Isaias
 
+---
+## 🧑‍🏭 Minhas contribuições
+Fiz a modelagem de dados, participei ativamente do planejamento das telas e contribuí na identificação dos principais pontos de atrito da jornada O2O, além de colaborar no desenvolvimento das soluções propostas.
 
 
 
