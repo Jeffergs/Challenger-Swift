@@ -109,6 +109,7 @@ Melhorar a jornada de compra O2O (Online to Offline) do e-commerce da Swift, red
 ![Cadastro PJ](https://github.com/user-attachments/assets/e89f11de-39fb-41f5-9a84-00dafb4bc057)
 ![Home](https://github.com/user-attachments/assets/8a28dc96-bc19-4ddb-8b4d-65ffee185a15)
 <div align=center> <img src="https://github.com/user-attachments/assets/098926b7-9ed1-4948-a621-7e557c27cd91" alt="Carrinho"> </div>
+
 ![Checkout](https://github.com/user-attachments/assets/e9b25097-9c53-47fc-9975-0625139802d9)
 
 ---
