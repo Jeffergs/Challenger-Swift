@@ -22,7 +22,7 @@
 
 ## 📌 Descrição do Desafio
 
-Melhorar a jornada de compra O2O (Online to Offline) do e-commerce da Swift, reduzindo fricções, aumentando a conversão e o ticket médio, além de propor inovações que fortaleçam a marca.
+Atividade acadêmica (em grupo) do 1º ano de ADS da FIAP, em parceria com a JBS, cujo objetivo é melhorar a jornada de compra O2O (Online to Offline) do e-commerce da Swift, reduzindo fricções, aumentando a conversão e o ticket médio, além de propor inovações que fortaleçam a marca.
 
 
 ## 🩺 Diagnóstico: Principais Pontos de Atrito na Jornada O2O
